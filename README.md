@@ -1,7 +1,7 @@
 # project-tree.vim
 Toggle vim's built in directory listing for project directory.
 
-#Usage
+# Usage
 <pre>
 :ToggleProjectTree
 </pre>
