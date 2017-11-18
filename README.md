@@ -9,5 +9,5 @@ Toggle vim's built in directory listing for project directory.
 # Suggested Key binding
 Add the following to your vimrc:
 <pre>
-map <leader>t :ToggleProjectTree
+map &gt;leader&lt;t :ToggleProjectTree
 </pre>
