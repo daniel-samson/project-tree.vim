@@ -1,5 +1,5 @@
 # project-tree.vim
-Toggle vim's built in directory listing for project directory.
+Toggle vim's built in file manager for your project directory.
 
 # Usage
 <pre>
